@@ -1,0 +1,41 @@
+body {
+	background-color: #0fccf4;
+}
+
+.form-group {
+    width: 450px;
+
+}
+
+.form-control {
+    border: none;
+    color: grey;
+}
+
+.btn {
+    margin-left: 0;
+    border: none;
+    color: grey;
+    background-color: white;
+}
+
+.correct {
+	color: #70ff16;
+}
+
+.incorrect {
+	color: #fd3030;
+}
+
+.fa-check {
+	color: #70ff16;
+}
+
+.fa-times {
+	color: #fd3030;
+}
+
+#red, #green {
+    color: white;
+}
+
